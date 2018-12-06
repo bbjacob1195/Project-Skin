@@ -1,0 +1,7 @@
+dir akiec
+dir bcc
+dir bkl
+dir df
+dir mel
+dir nv
+dir vasc
